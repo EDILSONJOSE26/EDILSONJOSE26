@@ -2,10 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF3C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+EDILSON;I'm+21+years+old;I+from+Brazil,+PI;Studying+Technical+in+systems+Development+in+IFPI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Edilson](https://github-readme-stats.vercel.app/api?username=EDILSONJOSE26&show_icons=true&theme=radical)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDILSONJOSE26&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">
+  <a href="https://github.com/EDILSONJOSE26">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EDILSONJOSE26&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDILSONJOSE26&layout=compact&langs_count=7&theme=radical"/>
+  
 ![Contribution](https://github.com/EDILSONJOSE26/EDILSONJOSE26/blob/output/github-contribution-grid-snake.svg)
-
+</div>
   
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
