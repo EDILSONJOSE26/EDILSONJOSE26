@@ -5,3 +5,5 @@
   <img width="49%" height="195px"
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDILSONJOSE26&show_icons=true&theme=radical)
 
+/>
+
