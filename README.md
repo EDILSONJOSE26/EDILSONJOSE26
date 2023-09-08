@@ -5,5 +5,5 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EDILSONJOSE26&show_icons=true&theme=blue_navy" />
 
-  <img width="41%" height="195px" src="https://github.com/EDILSONJOSE26/github-readme-stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
 </div>
